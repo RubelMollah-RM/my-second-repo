@@ -1,0 +1,15 @@
+.div1{
+    background-color: antiquewhite;
+    display: inline-block;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+    display: inline;
+}
+
+#authore{
+    display: flex;
+    color: black;
+}
